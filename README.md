@@ -1,4 +1,4 @@
-Baïkal
+Baïkal (fork)
 ======
 
 [![Build Status](https://travis-ci.org/vintagesucks/Baikal.svg?branch=master)](https://travis-ci.org/vintagesucks/Baikal)
